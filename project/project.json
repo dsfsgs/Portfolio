@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Pippi",
+        "tech": "UI/UX Designing",
+        "image": "./assets/img/project/pippi.png",
+        "desc":"This is my first design project.",
+        "links": {
+            "demo": "https://www.figma.com/design/H73AKgjzdzmTRs8gyD8F1p/PIPPI?node-id=0-1&t=PTpfSbsJLna96D7G-1",
+            "code": "404.html"
+        }
+    },
+    {
+        "title": "Alpha",
+        "tech": "UI/UX Designing",
+        "image": "./assets/img/project/alpha.png",
+        "desc":"This is for techno entreprenuership submission.",
+        "links": {
+            "demo": "https://www.figma.com/design/Nby4sVJfy797Ume50dkql9/Alpha?t=eet8wE8IMIoH57pU-1",
+            "code": "404.html"
+        }
+    },
+    {
+        "title": "ISDTP",
+        "tech": "Research",
+        "image": "./assets/img/project/isdtp.png",
+        "desc":"The research purpose is to propose an Information System",
+        "links": {
+            "demo": "https://drive.google.com/file/d/1ZrvaL7SVf22Cj3ScDT-Viz_6Yk7ztsnn/view?usp=sharing",
+            "code": "404.html"
+        }
+    },
+    {
+        "title": "SAD",
+        "tech": "Research",
+        "image": "./assets/img/project/sad.png",
+        "desc":"The research purpose is to develop a POS System for Tea Barrel",
+        "links": {
+            "demo": "https://drive.google.com/file/d/1ZrvaL7SVf22Cj3ScDT-Viz_6Yk7ztsnn/view?usp=sharing",
+            "code": "404.html"
+        }
+    }
+]

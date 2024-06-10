@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Principle of Web Development and Introduction to HTML",
+        "by": "DICT",
+        "image": "./certification/dict-tomenio.png",
+        "category":"Web Development",
+        "links": {
+            "credentials": "https://drive.google.com/file/d/1qFtcQbvnVG6sCoP_TCrkfg0XW2By3oPl/view?usp=sharing"
+        }
+    }, {
+        "name": "Test of Practical Competency in ICT",
+        "by": "IITP",
+        "image": "./certification/1.png",
+        "category":"ICT",
+        "links": {
+            "credentials": "https://drive.google.com/file/d/1yV8OzOhS3DwrStymQXTcqETLF34V_qKq/view?usp=sharing"
+        }
+    }, {
+        "name": "Test of Practical Competency in ICT",
+        "by": "IITP",
+        "image": "./certification/2.png",
+        "category":"ICT",
+        "links": {
+            "credentials": "https://drive.google.com/file/d/1GRQZNZOJiIQXGX4UJb5Bsov2EOyTBI5D/view?usp=sharing"
+        }
+    }
+]
